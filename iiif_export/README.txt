@@ -1,6 +1,6 @@
 Annotation export from Readux v2 at https://readux.io
 edition type: Readux IIIF Exported Edition
-export date: 2021-12-06 17:45:37.479789 UTC
+export date: 2021-12-06 18:44:20.100496 UTC
 
 volume title: All'Emo., e Rmo. Sigr. Pne. Colmo., Il Sig.r Cardinale Alessandro Albani Emo., e Rmo. pri
 volume author: Nolli, Giambattista, approximately 1692-1756.
